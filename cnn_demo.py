@@ -1,5 +1,5 @@
 import streamlit as st
-import tensorflo
+import tensorflow
 from tensorflow.keras.models import load_model, model_from_json
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.initializers import glorot_uniform
